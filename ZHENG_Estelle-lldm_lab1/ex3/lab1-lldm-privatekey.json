@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fabled-electron-332410",
+  "private_key_id": "3028b66391ef84f9b75e95da13081a95923f49b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDT35Eol00JnXQW\numzvGaoI+eC0eKjmjizNZYJibMiIewHp7CivYba296vSIgcDFdupt6q8QiADsYx3\n/h16gvgjssC7f34W9sJGZIgC/yPYCEm4dfXdhDDk4RrpUw1LNxO4Br8r6IUO5X2R\npVr7QiITMx0h0nXSD3E9BUwmjHRdWTjp0uA/elkiupBrXz7dPNjoaXh2Kkbhn/rV\n30HIC6dUsx71FOT4tcG/XuITOSqtUm9YakIBXw8NjbROsoGPLlgyoudOJsJTV0Kc\nxA9k4ukvJnZzN5I7+XSzQVKguDaaVD9pn5c5arZPBsjYGYP5cUBJoib52a3UHDjq\nM3kW7gbpAgMBAAECggEAHXZ975iWqGsiXRTAmEFH4WaqJj6PMjx8I3Xluz0oZ74/\nRmHGSJk8eNYZKSf9NKMiAEhfsD07yXezsm3+eG5lBkXRwmEYziWzX2mUdmI3gE+q\nvMF+lrbOu81H2kFn3FlE3zbk97ymYCtumkXV0JHiPixB9VWYd8UY+KTXcZbfialh\nNoVmFT5Rhsz6baBlCMxa6OnW3pWu8ptSDR7sgt3qjYislOwlO7mGg5SFylmih/TQ\nwwXnh3ih7sRFcYtNXHuKxreksChKByuecYuLaUMt15YJrorjkivcWWl6tFTjzsqO\neXDHJ6MHxAFZNZoIG972erJhoUIlsEAdu2ylaXeKHwKBgQD4QNVmM3wBP2BwtdlA\nlWdnloVYEgnzM0uMBi4dHfWo8bkjyQeZoZOpu/FnubTTJkvrYaHlOpXn6P4D7DI9\n8AjqmqC7yJJRoRNy9/Jxx/W23XcVu4hmHu+wFjvEQxuXuxP2/G9/kT1tzfJzk1hj\nhIuMSLFQRlMHlstnki/fMQydnwKBgQDafBzoINpvu7sOg9KiA0+SrvmbimlnEbD8\nUTsIxtaYrGXbuO6Sw2niuSuRYyA7VhxV311kusI0Cf8L8y/NbJYpLD4hlV3/B884\nNHjvp+SrEkZa5oz/VgHKMhZPA3e79+sJJ0dABmLeNb0COKehBzeTg0wYNCSogO8t\nPV+6QTP+dwKBgQDZji+1bd75VOoWPDcU0xmYfR+ES+KuX8CQCIZ2+99iW9us0aq4\nZxH5yHvJM8SU2lXkBF6VfV8LqnKZS2/IOcgGmNXNWvtnT+q0cTfloJ/jzndi80KY\ng/n3bbSYzVqsAMWBSD4KJGUaCka0JGdsZybIHJhPSiHPX8YHkOQlC14L7wKBgQC/\nfO3c6QZpzVCJzTFru5kfR2oPT8VHh3LmAc/KxnLIxrhTVgcK7Gg+ROqRdx6Fwtf8\nz1LMeP7Cm0xEzfREh/onxdYCmyYR4mdUrHCeIzlAUjkFbHGBTIEvFK0GvVRQk14U\n3K8Ox0oZ1WF9s+f/MxMbn4Su5eyHHtIBhXwEAyetywKBgCQWznqrFES7wOxZZMmy\nKmJ7xcSVUgo5+RhRw7vAaMI0UTK5kcRmCUAoz9X8s1CZrdVVwl7FM5cpkQDLSZJT\nEEIgiwe5nhHkNThu8R8Qj/dBQTdUOtBuo3/fxMfTHqbRBcgf44vpi4Y8UzcBC7rs\n4HpyHiS7QLipy8IE9lZb1RPI\n-----END PRIVATE KEY-----\n",
+  "client_email": "lab1-lldm-service-account@fabled-electron-332410.iam.gserviceaccount.com",
+  "client_id": "102445940559876570007",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lab1-lldm-service-account%40fabled-electron-332410.iam.gserviceaccount.com"
+}
